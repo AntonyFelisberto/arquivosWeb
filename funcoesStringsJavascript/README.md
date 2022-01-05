@@ -1,0 +1,2 @@
+# funcoesStrings
+ testing functions
